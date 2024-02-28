@@ -39,20 +39,6 @@ These commands will install and start MySQL, but will not prompt you to set a pa
 ![drawSQL-pharmacy-export-2024-02-14](https://github.com/Potdar09/DBMS_Mini-Project/assets/149302716/329395ad-638c-40c0-8feb-629aa9022ab9)
 
 
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-
 ## HARDWARE USED
 
 1. HARDWARE MODEL- Dell Inc. OptiPlex 5070
@@ -61,30 +47,12 @@ Give an example
 4. OS MODEL- Ubuntu 22.04.3 LTS
 
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
+* **ARYAN POTDAR** - *23266*
+* **CHINMAY RASKAR** - *23269*
+* **PRATIK SURVASE** - *23267*
 
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
