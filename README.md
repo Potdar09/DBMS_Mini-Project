@@ -50,8 +50,10 @@ These commands will install and start MySQL, but will not prompt you to set a pa
 ## Authors
 
 * **ARYAN POTDAR** - *23266*
-* **CHINMAY RASKAR** - *23269*
 * **PRATIK SURVASE** - *23267*
+* **SAMALI RAJDERKAR** - *23268*
+* **CHINMAY RASKAR** - *23269*
+
 
 
 ## Acknowledgments
