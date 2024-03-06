@@ -35,10 +35,6 @@ These commands will install and start MySQL, but will not prompt you to set a pa
 ![Network Diagrams](https://github.com/Potdar09/DBMS_Mini-Project/assets/149302716/2858f43b-0c69-4d72-b163-6a8cb8181fb9)
 
 
-## SCHEMA DIAGRAM
-![drawSQL-pharmacy-export-2024-02-14](https://github.com/Potdar09/DBMS_Mini-Project/assets/149302716/329395ad-638c-40c0-8feb-629aa9022ab9)
-
-
 ## HARDWARE USED
 
 1. HARDWARE MODEL- Dell Inc. OptiPlex 5070
