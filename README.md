@@ -55,4 +55,5 @@ These commands will install and start MySQL, but will not prompt you to set a pa
 
 
 ## Acknowledgments
+Special thanks to our teacher Mrs. Kirti Digholkar for guiding us through our DBMS mini project with invaluable support and expertise.
 
